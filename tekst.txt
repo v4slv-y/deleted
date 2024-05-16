@@ -1,3 +1,4 @@
 // my test file
 
 // I'm editing this file
+new text
